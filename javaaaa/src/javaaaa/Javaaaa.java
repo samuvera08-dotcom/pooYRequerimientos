@@ -4,30 +4,22 @@
  */
 package javaaaa;
 
+/**
+ *
+ * @author samuelvera
+ */
 public class Javaaaa {
 
     /**
-     *
-     * @author samuelvera public class Javaaaa {
-     *
-     * /
-     **
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-
-        Jugador mijugador = new Jugador();
-
-        System.out.println("mi jugador es" + mijugador.competenciaInternacional);
 
         cuartoPrincipal miCuarto = new cuartoPrincipal();
 
         miCuarto.setCama("king");
 
-        miCuarto.getCama();
         System.out.println("mi cama es " + miCuarto.getCama());
 
     }
-
 }
