@@ -10,6 +10,7 @@ package javaaaa;
         private boolean tieneClosetPropio;
 
         public CuartoInvitados() {
+
             super();
         }
 
@@ -19,10 +20,12 @@ package javaaaa;
         }
 
         public boolean isTieneClosetPropio() {
+
             return tieneClosetPropio;
         }
 
         public void setTieneClosetPropio(boolean tieneClosetPropio) {
+
             this.tieneClosetPropio = tieneClosetPropio;
         }
     }

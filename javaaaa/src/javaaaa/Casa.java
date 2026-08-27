@@ -16,42 +16,52 @@ public class Casa {
     private String direccion="";
 
     public int getPuerta() {
+
         return puerta;
     }
 
     public void setPuerta(int puerta) {
+
         this.puerta = puerta;
     }
 
     public String getColor() {
+
         return color;
     }
 
     public void setColor(String color) {
+
         this.color = color;
     }
 
     public String getLocalidad() {
+
         return localidad;
     }
 
     public void setLocalidad(String localidad) {
+
         this.localidad = localidad;
     }
 
     public String getBarrio() {
+
         return barrio;
     }
 
     public void setBarrio(String barrio) {
+
         this.barrio = barrio;
     }
 
     public String getDireccion() {
+
         return direccion;
     }
 
     public void setDireccion(String direccion) {
+
         this.direccion = direccion;
     }
     

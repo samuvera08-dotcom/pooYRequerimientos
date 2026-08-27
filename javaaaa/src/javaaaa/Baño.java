@@ -5,24 +5,25 @@
      *
      * @author samuelvera
      */
-    public class Bano extends Habitacion {
+    public class Baño extends Habitacion {
 
         private boolean tieneTina;
 
-        public Bano() {
+        public Baño() {
             super();
         }
 
-        public Bano(String nombre, double area, int piso, boolean tieneTina) {
+        public Baño(String nombre, double area, int piso, boolean tieneTina) {
             super(nombre, area, piso);
             this.tieneTina = tieneTina;
         }
 
-        public boolean isTieneTina() {
+        public boolean siTieneTina() {
             return tieneTina;
         }
 
         public void setTieneTina(boolean tieneTina) {
+
             this.tieneTina = tieneTina;
         }
     }

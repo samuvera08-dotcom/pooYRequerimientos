@@ -11,9 +11,6 @@ package javaaaa;
         private double area;
         private int piso;
 
-        public Habitacion() {
-        }
-
         public Habitacion(String nombre, double area, int piso) {
             this.nombre = nombre;
             this.area = area;
@@ -21,6 +18,7 @@ package javaaaa;
         }
 
         public String getNombre() {
+
             return nombre;
         }
 
@@ -29,6 +27,7 @@ package javaaaa;
         }
 
         public double getArea() {
+
             return area;
         }
 
@@ -37,10 +36,12 @@ package javaaaa;
         }
 
         public int getPiso() {
+
             return piso;
         }
 
         public void setPiso(int piso) {
+
             this.piso = piso;
         }
 
