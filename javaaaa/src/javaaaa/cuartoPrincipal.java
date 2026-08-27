@@ -8,11 +8,20 @@ package javaaaa;
  *
  * @author samuelvera
  */
-public class cuartoPrincipal extends Casa {
-    
-    private String cama=" " ;
-    
-    private int bano=0;
+public class cuartoPrincipal extends Habitacion {
+
+    private String cama;
+    private int bano;
+
+    public cuartoPrincipal() {
+        super();
+    }
+
+    public cuartoPrincipal(String nombre, double area, int piso, String cama, int bano) {
+        super(nombre, area, piso);
+        this.cama = cama;
+        this.bano = bano;
+    }
 
     public String getCama() {
         return cama;
@@ -29,7 +38,4 @@ public class cuartoPrincipal extends Casa {
     public void setBano(int bano) {
         this.bano = bano;
     }
-    
-    
-    
 }
