@@ -1,6 +1,4 @@
-package javaaaa;
 
-public class AreaComun {
     package javaaaa;
 
     /**
@@ -42,4 +40,4 @@ public class AreaComun {
     }
 
 
-}
+

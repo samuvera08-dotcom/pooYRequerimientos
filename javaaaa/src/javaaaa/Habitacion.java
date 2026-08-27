@@ -1,6 +1,4 @@
-package javaaaa;
 
-public class Habitacion {
 package javaaaa;
 
     /**
@@ -51,4 +49,4 @@ package javaaaa;
         }
     }
 
-}
+

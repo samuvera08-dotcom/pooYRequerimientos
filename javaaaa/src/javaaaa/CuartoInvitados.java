@@ -1,7 +1,5 @@
-package javaaaa;
 
-public class CuartoInvitados {
-    package javaaaa;
+package javaaaa;
 
     /**
      *
@@ -30,4 +28,4 @@ public class CuartoInvitados {
     }
 
 
-}
+

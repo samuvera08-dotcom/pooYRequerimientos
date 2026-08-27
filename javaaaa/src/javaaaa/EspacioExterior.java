@@ -1,7 +1,4 @@
-package javaaaa;
 
-public class EspacioExterior {
-package javaaaa;
 
     /**
      *
@@ -45,4 +42,4 @@ package javaaaa;
 
 
 
-}
+

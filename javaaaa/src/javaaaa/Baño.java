@@ -1,6 +1,4 @@
-package javaaaa;
 
-public class Baño {
     package javaaaa;
 
     /**
@@ -30,4 +28,4 @@ public class Baño {
     }
 
 
-}
+

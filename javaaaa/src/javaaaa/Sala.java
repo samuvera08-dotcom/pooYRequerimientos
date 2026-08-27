@@ -1,6 +1,4 @@
-package javaaaa;
 
-public class Sala {
    package javaaaa;
 
     /**
@@ -28,4 +26,4 @@ public class Sala {
             this.tieneTelevisor = tieneTelevisor;
         }
     }
-}
+

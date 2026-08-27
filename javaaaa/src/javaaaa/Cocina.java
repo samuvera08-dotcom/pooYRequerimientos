@@ -1,6 +1,4 @@
-package javaaaa;
 
-public class Cocina {
     package javaaaa;
 
     /**
@@ -28,4 +26,4 @@ public class Cocina {
             this.numeroElectrodomesticos = numeroElectrodomesticos;
         }
     }
-}
+
